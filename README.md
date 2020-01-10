@@ -1,1 +1,1 @@
-# nezda-reactjs
+# nezda-js
